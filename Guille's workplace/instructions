@@ -1,0 +1,14 @@
+First you need to install (using apt-get install):
+- python-numpy
+- python-scipy
+- python-matplotlib
+- ipython
+- python-dev
+- python setuptools
+- libsndfile-dev
+- libasound2-dev
+
+Then go to project/scikits.audiolab-0.11.0 and run:
+	sudo python setup.py install
+
+Now go to Guille's workplace and run simple_fft.py. 
